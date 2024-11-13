@@ -1,0 +1,46 @@
+{
+  "inicio": {
+    "banner": {
+      "id": 1,
+      "title": "Películas Recomendadas",
+      "description": "Las mejores películas para ver ahora.",
+      "url_logo": "https://image.tmdb.org/t/p/w500/your-logo.png",
+      "url_fondo": "https://image.tmdb.org/t/p/original/your-background-image.jpg",
+      "url_video": "https://www.youtube.com/watch?v=your-video-id"
+    },
+    "movies": [
+      {
+        "id": 101,
+        "title": "Barbie",
+        "description": "La película de la famosa muñeca Barbie, que enfrenta desafíos y aventuras.",
+        "url_tmdb": "https://www.themoviedb.org/movie/12345-barbie",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      },
+      {
+        "id": 102,
+        "title": "Oppenheimer",
+        "description": "La historia detrás de la creación de la bomba atómica.",
+        "url_tmdb": "https://www.themoviedb.org/movie/12346-oppenheimer",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      },
+      {
+        "id": 103,
+        "title": "Guardians of the Galaxy Vol. 3",
+        "description": "Los Guardianes de la Galaxia enfrentan una nueva amenaza en esta tercera película.",
+        "url_tmdb": "https://www.themoviedb.org/movie/12347-guardians-of-the-galaxy-vol-3",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      },
+      {
+        "id": 104,
+        "title": "The Flash",
+        "description": "Barry Allen, un joven con superpoderes, lucha para salvar el multiverso.",
+        "url_tmdb": "https://www.themoviedb.org/movie/12348-the-flash",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      }
+    ]
+  }
+}
