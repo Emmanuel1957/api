@@ -1,0 +1,46 @@
+{
+  "inicio": {
+    "banner": {
+      "id": 1,
+      "title": "Series Recomendadas",
+      "description": "Las mejores series para ver ahora.",
+      "url_logo": "https://image.tmdb.org/t/p/w500/your-logo.png",
+      "url_fondo": "https://image.tmdb.org/t/p/original/your-background-image.jpg",
+      "url_video": "https://www.youtube.com/watch?v=your-video-id"
+    },
+    "series": [
+      {
+        "id": 201,
+        "title": "Stranger Things",
+        "description": "Un grupo de amigos se enfrenta a fuerzas sobrenaturales en la década de los 80.",
+        "url_tmdb": "https://www.themoviedb.org/tv/66732-stranger-things",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      },
+      {
+        "id": 202,
+        "title": "The Mandalorian",
+        "description": "Un cazarrecompensas solitario en el universo de Star Wars embarca en una misión para proteger a un niño con poderes especiales.",
+        "url_tmdb": "https://www.themoviedb.org/tv/82856-the-mandalorian",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      },
+      {
+        "id": 203,
+        "title": "Breaking Bad",
+        "description": "Un profesor de química convertido en fabricante de metanfetaminas se adentra en un mundo peligroso de crimen.",
+        "url_tmdb": "https://www.themoviedb.org/tv/169-breaking-bad",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      },
+      {
+        "id": 204,
+        "title": "The Witcher",
+        "description": "Un cazador de monstruos, Geralt de Rivia, lucha por encontrar su destino en un mundo lleno de magia y criaturas mitológicas.",
+        "url_tmdb": "https://www.themoviedb.org/tv/82856-the-witcher",
+        "url_poster": "https://image.tmdb.org/t/p/w500/your-poster-image.jpg",
+        "url_video": "https://www.youtube.com/watch?v=your-video-id"
+      }
+    ]
+  }
+}
